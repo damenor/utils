@@ -1,0 +1,25 @@
+{
+  "name": "@damenor/utils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "package": "npm publish --access=public && npm run push",
+    "push": "git add * && git commit -m 'v0.0.1' && git push origin"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damenor/utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/damenor/utils/issues"
+  },
+  "homepage": "https://github.com/damenor/utils#readme",
+  "author": "damenor <damenor.develop@gmail.com> (https://github.com/damenor)",
+  "license": "MIT"
+}
