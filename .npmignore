@@ -4,4 +4,4 @@
 .gitignore
 
 #dev tools
-lib/
+src/

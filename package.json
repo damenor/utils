@@ -1,11 +1,11 @@
 {
   "name": "@damenor/utils",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Utils for JavaScript",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "package": "npm publish --access=public && npm run push",
-    "push": "git add * && git commit -m 'v0.0.11' && git push origin"
+    "push": "git add * && git commit -m 'v0.0.12' && git push origin"
   },
   "keywords": [
     "javascript",
